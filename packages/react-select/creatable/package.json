@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "main": "dist/react-select-creatable.cjs.js",
-  "module": "dist/react-select-creatable.esm.js",
-  "types": "dist/react-select-creatable.cjs.d.ts"
+  "main": "dist/react-select-es-creatable.cjs.js",
+  "module": "dist/react-select-es-creatable.esm.js",
+  "types": "dist/react-select-es-creatable.cjs.d.ts"
 }

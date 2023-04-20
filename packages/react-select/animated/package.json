@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "main": "dist/react-select-animated.cjs.js",
-  "module": "dist/react-select-animated.esm.js",
-  "types": "dist/react-select-animated.cjs.d.ts"
+  "main": "dist/react-select-es-animated.cjs.js",
+  "module": "dist/react-select-es-animated.esm.js",
+  "types": "dist/react-select-es-animated.cjs.d.ts"
 }
