@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "main": "dist/react-select-async-creatable.cjs.js",
   "module": "dist/react-select-async-creatable.esm.js",
   "types": "dist/react-select-async-creatable.cjs.d.ts"
